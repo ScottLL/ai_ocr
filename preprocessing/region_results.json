@@ -1,0 +1,305 @@
+[
+  {
+    "elements": [
+      {
+        "type": "image",
+        "bounds": {
+          "left": 12,
+          "top": 2,
+          "right": 444,
+          "bottom": 322
+        },
+        "confidence": 0.2610030304021816
+      },
+      {
+        "type": "text",
+        "text": "480*120",
+        "confidence": 0.5914329579241466,
+        "bounds": {
+          "left": 241,
+          "right": 311,
+          "top": 9,
+          "bottom": 29
+        }
+      },
+      {
+        "type": "text",
+        "text": "60x600",
+        "confidence": 0.9017729752692712,
+        "bounds": {
+          "left": 55,
+          "right": 117,
+          "top": 21,
+          "bottom": 41
+        }
+      },
+      {
+        "type": "text",
+        "text": "From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
+        "confidence": 0.8372221229308453,
+        "bounds": {
+          "left": 391,
+          "right": 557,
+          "top": 41,
+          "bottom": 135
+        }
+      },
+      {
+        "type": "text",
+        "text": "Sunglasses",
+        "confidence": 0.9991142250153041,
+        "bounds": {
+          "left": 26,
+          "right": 142,
+          "top": 152,
+          "bottom": 180
+        }
+      },
+      {
+        "type": "text",
+        "text": "300x250",
+        "confidence": 0.8028943353481586,
+        "bounds": {
+          "left": 247,
+          "right": 317,
+          "top": 159,
+          "bottom": 179
+        }
+      },
+      {
+        "type": "text",
+        "text": "300*250 Text Ad",
+        "confidence": 0.6852752795503695,
+        "bounds": {
+          "left": 511,
+          "right": 641,
+          "top": 159,
+          "bottom": 179
+        }
+      },
+      {
+        "type": "text",
+        "text": "Deals Up to 50% Off",
+        "confidence": 0.9446193455996003,
+        "bounds": {
+          "left": 28,
+          "right": 140,
+          "top": 184,
+          "bottom": 240
+        }
+      },
+      {
+        "type": "text",
+        "text": "Brand",
+        "confidence": 0.9899953536335122,
+        "bounds": {
+          "left": 485,
+          "right": 521,
+          "top": 273,
+          "bottom": 287
+        }
+      },
+      {
+        "type": "text",
+        "text": "Brano",
+        "confidence": 0.8533676833201815,
+        "bounds": {
+          "left": 65,
+          "right": 99,
+          "top": 277,
+          "bottom": 289
+        }
+      },
+      {
+        "type": "text",
+        "text": "Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off",
+        "confidence": 0.7007583500206735,
+        "bounds": {
+          "left": 485,
+          "right": 707,
+          "top": 291,
+          "bottom": 323
+        }
+      },
+      {
+        "type": "text",
+        "text": "Collection of Mens",
+        "confidence": 0.38831712501621213,
+        "bounds": {
+          "left": 27,
+          "right": 143,
+          "top": 359,
+          "bottom": 375
+        }
+      },
+      {
+        "type": "text",
+        "text": "SHOP NON",
+        "confidence": 0.505990188182224,
+        "bounds": {
+          "left": 567,
+          "right": 635,
+          "top": 365,
+          "bottom": 379
+        }
+      },
+      {
+        "type": "text",
+        "text": "Mens",
+        "confidence": 0.92071133852005,
+        "bounds": {
+          "left": 239,
+          "right": 271,
+          "top": 367,
+          "bottom": 379
+        }
+      },
+      {
+        "type": "text",
+        "text": "Summer Sale Up to",
+        "confidence": 0.6004178012138405,
+        "bounds": {
+          "left": 25,
+          "right": 145,
+          "top": 407,
+          "bottom": 425
+        }
+      },
+      {
+        "type": "text",
+        "text": "728890",
+        "confidence": 0.631214957088809,
+        "bounds": {
+          "left": 245,
+          "right": 303,
+          "top": 421,
+          "bottom": 437
+        }
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 210,
+          "top": 440,
+          "right": 291,
+          "bottom": 520
+        },
+        "confidence": 0.38114754098360654
+      },
+      {
+        "type": "text",
+        "text": "Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer",
+        "confidence": 0.8887785934441708,
+        "bounds": {
+          "left": 420,
+          "right": 717,
+          "top": 450,
+          "bottom": 506
+        }
+      }
+    ],
+    "bounds": {
+      "left": 12,
+      "top": 2,
+      "right": 717,
+      "bottom": 520
+    },
+    "columns": [
+      [
+        {
+          "text": "60x600",
+          "v_center": 31.0,
+          "left": 55.0,
+          "avg_right": 117.0
+        },
+        {
+          "text": "Sunglasses Deals Up to 50% Off",
+          "v_center": 196.0,
+          "left": 27.0,
+          "avg_right": 141.0
+        },
+        {
+          "text": "Brano",
+          "v_center": 283.0,
+          "left": 65.0,
+          "avg_right": 99.0
+        },
+        {
+          "text": "Collection of Mens",
+          "v_center": 367.0,
+          "left": 27.0,
+          "avg_right": 143.0
+        },
+        {
+          "text": "Summer Sale Up to",
+          "v_center": 416.0,
+          "left": 25.0,
+          "avg_right": 145.0
+        }
+      ],
+      [
+        {
+          "text": "480*120",
+          "v_center": 19.0,
+          "left": 241.0,
+          "avg_right": 311.0
+        },
+        {
+          "text": "300x250",
+          "v_center": 169.0,
+          "left": 247.0,
+          "avg_right": 317.0
+        },
+        {
+          "text": "Mens",
+          "v_center": 373.0,
+          "left": 239.0,
+          "avg_right": 271.0
+        },
+        {
+          "text": "728890",
+          "v_center": 429.0,
+          "left": 245.0,
+          "avg_right": 303.0
+        }
+      ],
+      [
+        {
+          "text": "From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
+          "v_center": 88.0,
+          "left": 391.0,
+          "avg_right": 557.0
+        },
+        {
+          "text": "300*250 Text Ad",
+          "v_center": 169.0,
+          "left": 511.0,
+          "avg_right": 641.0
+        },
+        {
+          "text": "Brand Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off",
+          "v_center": 298.0,
+          "left": 485.0,
+          "avg_right": 614.0
+        },
+        {
+          "text": "SHOP NON",
+          "v_center": 372.0,
+          "left": 567.0,
+          "avg_right": 635.0
+        },
+        {
+          "text": "Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer",
+          "v_center": 478.0,
+          "left": 420.0,
+          "avg_right": 717.0
+        }
+      ]
+    ],
+    "merged_paragraphs": [
+      "60x600 480*120 From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
+      "300x250 300*250 Text Ad Sunglasses Deals Up to 50% Off Brano Brand Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off Collection of Mens Mens SHOP NON Summer Sale Up to 728890 Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer"
+    ],
+    "region_id": 1
+  }
+]
