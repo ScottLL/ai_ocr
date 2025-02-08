@@ -8,7 +8,7 @@ import os
 from multiprocessing import Pool
 
 class VisionExtractor:
-    def __init__(self, model: str = "llama3.2-vision:11b", api_url: str = "http://192.168.50.153:11434/v1/chat/completions"):
+    def __init__(self, model: str = "llama3.2-vision:11b", api_url: str = "http://localhost:11434/v1/chat/completions"):
         """
         Initialize VisionExtractor
         
