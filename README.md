@@ -1,4 +1,4 @@
-# CDC_OCR
+# llama_vision_OCR
 A Python-based OCR pipeline designed to detect, process, and extract text (and image regions) from documents or images with improved accuracy and flexibility. The project leverages [EasyOCR](https://github.com/JaidedAI/EasyOCR), OpenCV, and a customizable set of "handlers" to handle everything from rotation detection, text-like region clustering, and fewer false positives in text detection.
 
 ---
