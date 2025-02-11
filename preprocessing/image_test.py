@@ -193,9 +193,9 @@ def save_regions_to_json(regions, output_file='region_results.json'):
 if __name__ == "__main__":
     # image_path = "../image.jpg"
     # image_path = "../output.jpg"
-    # image_path = "../image2.png"
+    image_path = "../src/image2.png"
     # image_path = "../333.jpeg"
-    image_path = "../222.webp"
+    # image_path = "../222.webp"
     regions = test_improved_preprocessor(image_path)
     if regions:
         save_regions_to_json(regions, output_file='region_results.json')

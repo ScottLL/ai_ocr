@@ -1,6 +1,10 @@
-# CDC OCR (Chendu City OCR)
+# Vision-OCR
 
-A Python-based OCR pipeline designed to detect, process, and extract text (and image regions) from documents or images with improved accuracy and flexibility. The project leverages [EasyOCR](https://github.com/JaidedAI/EasyOCR), OpenCV, and a customizable set of "handlers" to handle everything from rotation detection, text-like region clustering, and fewer false positives in text detection.
+A vision-based OCR pipeline designed to detect, process, and extract text from documents or images with improved accuracy and flexibility using vison llm.
+
+ The project leverages [EasyOCR](https://github.com/JaidedAI/EasyOCR), OpenCV, and a customizable set of "handlers" to handle everything from rotation detection, text-like region clustering, and fewer false positives in text detection.
+
+ Vision LLM applied in to the project which using better proformance ocr to help the affordable vision model (llama3.2-vision) with better proformance. 
 
 ---
 ![1739021232039](image/README/1739021232039.png)
@@ -34,6 +38,13 @@ For Windows:
 ```bash
 ollama pull llama3.2-vision
 ```
+
+5. start run the Ollama server
+```bash 
+ollama serve
+```
+
+* Note: In this project, we are using llama3.2-vision as the ocr's vision model, feel free to change it to other much more powerful vison/multimodal model for better preformance. 
 
 ## Usage
 

@@ -139,7 +139,7 @@ class ImprovedImagePreprocessor:
             y1 = block['bounds']['top']
             x2 = block['bounds']['right']
             y2 = block['bounds']['bottom']
-            text_mask[y1:y2, x1:x2] = 255
+            text_mask[int(y1):int(y2), int(x1):int(x2)] = 255
 
         # Use ObjectDetector to find image regions
         self.image_blocks = self.object_detector.detect_objects(self.image, text_mask)
