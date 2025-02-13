@@ -56,8 +56,13 @@ class VisionExtractor:
         :return: Dictionary with region information and vision model response
         """
         try:
-            # Extract region from image using bounds
-            bounds = region['bounds']
+            # Extract region from image using bounds and convert to integers
+            bounds = {
+                'top': int(region['bounds']['top']),
+                'bottom': int(region['bounds']['bottom']),
+                'left': int(region['bounds']['left']),
+                'right': int(region['bounds']['right'])
+            }
             region_image = image[bounds['top']:bounds['bottom'], 
                                bounds['left']:bounds['right']]
             
@@ -110,8 +115,13 @@ class VisionExtractor:
             vision_results = []
             
             for idx, region in enumerate(regions):
-                # Get region bounds
-                bounds = region['bounds']
+                # Get region bounds and convert to integers
+                bounds = {
+                    'top': int(region['bounds']['top']),
+                    'bottom': int(region['bounds']['bottom']),
+                    'left': int(region['bounds']['left']),
+                    'right': int(region['bounds']['right'])
+                }
                 
                 # Crop region from image
                 region_image = image[bounds['top']:bounds['bottom'], 

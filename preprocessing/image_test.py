@@ -20,7 +20,8 @@ def test_improved_preprocessor(image_path):
     # Get the directory where image_test.py is located
     current_dir = os.path.dirname(os.path.abspath(__file__))
 
-    reader = easyocr.Reader(['en', 'ch_sim'])
+    reader = easyocr.Reader(['ch_sim', 'en'])
+    # language choice 'en', 'ch_sim','fr','ja','es','hi','de','ar'
     preprocessor = ImprovedImagePreprocessor(image_path, reader)
 
     try:
@@ -191,9 +192,10 @@ def save_regions_to_json(regions, output_file='region_results.json'):
             traceback.print_exc()
 
 if __name__ == "__main__":
-    # image_path = "../image.jpg"
-    # image_path = "../output.jpg"
-    image_path = "../src/image2.png"
+    # image_path = "../src/image.jpg"
+    # image_path = "../src/456.jpg"
+    image_path = "../src/2123.jpeg"
+    # image_path = "../src/525.jpg"
     # image_path = "../333.jpeg"
     # image_path = "../222.webp"
     regions = test_improved_preprocessor(image_path)

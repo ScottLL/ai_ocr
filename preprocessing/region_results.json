@@ -4,302 +4,1216 @@
       {
         "type": "image",
         "bounds": {
-          "left": 12,
-          "top": 2,
-          "right": 444,
-          "bottom": 322
+          "left": 214,
+          "top": 98,
+          "right": 1966,
+          "bottom": 624
         },
-        "confidence": 0.2610030304021816
+        "confidence": 0.36081044022522196
       },
       {
         "type": "text",
-        "text": "480*120",
-        "confidence": 0.5914329579241466,
+        "text": "Bear Yogurt Maker Share Happiness; health and nutrition With family",
+        "confidence": 0.9944250391951883,
         "bounds": {
-          "left": 241,
-          "right": 311,
-          "top": 9,
-          "bottom": 29
+          "left": 277,
+          "right": 963,
+          "top": 154,
+          "bottom": 353
         }
       },
       {
         "type": "text",
-        "text": "60x600",
-        "confidence": 0.9017729752692712,
+        "text": "Greek Yogurt Maker Are you keen on simple and convenient life? Here is",
+        "confidence": 0.7373427884212743,
         "bounds": {
-          "left": 55,
-          "right": 117,
-          "top": 21,
-          "bottom": 41
-        }
-      },
-      {
-        "type": "text",
-        "text": "From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
-        "confidence": 0.8372221229308453,
-        "bounds": {
-          "left": 391,
-          "right": 557,
-          "top": 41,
-          "bottom": 135
-        }
-      },
-      {
-        "type": "text",
-        "text": "Sunglasses",
-        "confidence": 0.9991142250153041,
-        "bounds": {
-          "left": 26,
-          "right": 142,
-          "top": 152,
-          "bottom": 180
-        }
-      },
-      {
-        "type": "text",
-        "text": "300x250",
-        "confidence": 0.8028943353481586,
-        "bounds": {
-          "left": 247,
-          "right": 317,
-          "top": 159,
-          "bottom": 179
-        }
-      },
-      {
-        "type": "text",
-        "text": "300*250 Text Ad",
-        "confidence": 0.6852752795503695,
-        "bounds": {
-          "left": 511,
-          "right": 641,
-          "top": 159,
-          "bottom": 179
-        }
-      },
-      {
-        "type": "text",
-        "text": "Deals Up to 50% Off",
-        "confidence": 0.9446193455996003,
-        "bounds": {
-          "left": 28,
-          "right": 140,
-          "top": 184,
-          "bottom": 240
-        }
-      },
-      {
-        "type": "text",
-        "text": "Brand",
-        "confidence": 0.9899953536335122,
-        "bounds": {
-          "left": 485,
-          "right": 521,
-          "top": 273,
-          "bottom": 287
-        }
-      },
-      {
-        "type": "text",
-        "text": "Brano",
-        "confidence": 0.8533676833201815,
-        "bounds": {
-          "left": 65,
-          "right": 99,
-          "top": 277,
-          "bottom": 289
-        }
-      },
-      {
-        "type": "text",
-        "text": "Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off",
-        "confidence": 0.7007583500206735,
-        "bounds": {
-          "left": 485,
-          "right": 707,
-          "top": 291,
-          "bottom": 323
-        }
-      },
-      {
-        "type": "text",
-        "text": "Collection of Mens",
-        "confidence": 0.38831712501621213,
-        "bounds": {
-          "left": 27,
-          "right": 143,
-          "top": 359,
-          "bottom": 375
-        }
-      },
-      {
-        "type": "text",
-        "text": "SHOP NON",
-        "confidence": 0.505990188182224,
-        "bounds": {
-          "left": 567,
-          "right": 635,
-          "top": 365,
-          "bottom": 379
-        }
-      },
-      {
-        "type": "text",
-        "text": "Mens",
-        "confidence": 0.92071133852005,
-        "bounds": {
-          "left": 239,
-          "right": 271,
-          "top": 367,
-          "bottom": 379
-        }
-      },
-      {
-        "type": "text",
-        "text": "Summer Sale Up to",
-        "confidence": 0.6004178012138405,
-        "bounds": {
-          "left": 25,
-          "right": 145,
-          "top": 407,
-          "bottom": 425
-        }
-      },
-      {
-        "type": "text",
-        "text": "728890",
-        "confidence": 0.631214957088809,
-        "bounds": {
-          "left": 245,
-          "right": 303,
-          "top": 421,
-          "bottom": 437
+          "left": 660,
+          "right": 1434,
+          "top": 674,
+          "bottom": 770
         }
       },
       {
         "type": "image",
         "bounds": {
-          "left": 210,
-          "top": 440,
-          "right": 291,
-          "bottom": 520
+          "left": 22,
+          "top": 724,
+          "right": 624,
+          "bottom": 1472
         },
-        "confidence": 0.38114754098360654
+        "confidence": 0.3251012596528006
       },
       {
         "type": "text",
-        "text": "Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer",
-        "confidence": 0.8887785934441708,
+        "text": "ar",
+        "confidence": 0.8376365659605135,
         "bounds": {
-          "left": 420,
-          "right": 717,
-          "top": 450,
-          "bottom": 506
+          "left": 1766,
+          "right": 1894,
+          "top": 729,
+          "bottom": 805
+        }
+      },
+      {
+        "type": "text",
+        "text": "the best choice foryou。 Committed to fashion, ease of use and full of nutrition, this greek yogurt maker with intelligent heating operation and",
+        "confidence": 0.7977631294020873,
+        "bounds": {
+          "left": 658,
+          "right": 1422,
+          "top": 767,
+          "bottom": 907
+        }
+      },
+      {
+        "type": "text",
+        "text": "Since 2006, BEAR has been",
+        "confidence": 0.6057710653178476,
+        "bounds": {
+          "left": 1561,
+          "right": 1861,
+          "top": 884,
+          "bottom": 916
+        }
+      },
+      {
+        "type": "text",
+        "text": "timing control creates an endless variety of flavors for yogurt",
+        "confidence": 0.7964442561912297,
+        "bounds": {
+          "left": 658,
+          "right": 1446,
+          "top": 903,
+          "bottom": 946
+        }
+      },
+      {
+        "type": "text",
+        "text": "dedicated to innovative home",
+        "confidence": 0.9277153310770453,
+        "bounds": {
+          "left": 1561,
+          "right": 1891,
+          "top": 916,
+          "bottom": 946
+        }
+      },
+      {
+        "type": "text",
+        "text": "lovers. Not only a great source Of protein and calcium, yogurt",
+        "confidence": 0.6981014941120389,
+        "bounds": {
+          "left": 660,
+          "right": 1447,
+          "top": 945,
+          "bottom": 988
+        }
+      },
+      {
+        "type": "text",
+        "text": "appliances, continually developing new technologies to enhance",
+        "confidence": 0.9667161252034151,
+        "bounds": {
+          "left": 1560,
+          "right": 1944,
+          "top": 946,
+          "bottom": 1012
+        }
+      },
+      {
+        "type": "text",
+        "text": "are also crucial for a healthy digestive systems by health-",
+        "confidence": 0.7528107582161008,
+        "bounds": {
+          "left": 660,
+          "right": 1392,
+          "top": 984,
+          "bottom": 1026
+        }
+      },
+      {
+        "type": "text",
+        "text": "everyday life. Our smart appliances",
+        "confidence": 0.8830377378436689,
+        "bounds": {
+          "left": 1559,
+          "right": 1952,
+          "top": 1009,
+          "bottom": 1046
+        }
+      },
+      {
+        "type": "text",
+        "text": "conscious consumers",
+        "confidence": 0.8715039669554043,
+        "bounds": {
+          "left": 662,
+          "right": 932,
+          "top": 1029,
+          "bottom": 1061
+        }
+      },
+      {
+        "type": "text",
+        "text": "simplify household chores and daily routines, reducing the burden of tasks and giving people more time",
+        "confidence": 0.9848598270927015,
+        "bounds": {
+          "left": 1559,
+          "right": 1960,
+          "top": 1043,
+          "bottom": 1143
+        }
+      },
+      {
+        "type": "text",
+        "text": "Package of Yogurt Maker:",
+        "confidence": 0.739199066071562,
+        "bounds": {
+          "left": 732,
+          "right": 1044,
+          "top": 1124,
+          "bottom": 1164
+        }
+      },
+      {
+        "type": "text",
+        "text": "to enjoy life. This commitment is",
+        "confidence": 0.556219385571821,
+        "bounds": {
+          "left": 1560,
+          "right": 1924,
+          "top": 1139,
+          "bottom": 1175
+        }
+      },
+      {
+        "type": "text",
+        "text": "Yogurt Maker Machine 1 *",
+        "confidence": 0.9908319134392,
+        "bounds": {
+          "left": 739,
+          "right": 1048,
+          "top": 1166,
+          "bottom": 1204
+        }
+      },
+      {
+        "type": "text",
+        "text": "evidentin our diverse product lines; featuring multifunctional kitchen",
+        "confidence": 0.6584791746193933,
+        "bounds": {
+          "left": 1558,
+          "right": 1956,
+          "top": 1171,
+          "bottom": 1236
+        }
+      },
+      {
+        "type": "text",
+        "text": "2*1 Quart Glass Jars",
+        "confidence": 0.5768449204671481,
+        "bounds": {
+          "left": 735,
+          "right": 993,
+          "top": 1208,
+          "bottom": 1240
+        }
+      },
+      {
+        "type": "text",
+        "text": "appliances and home cleaning",
+        "confidence": 0.9620160669897275,
+        "bounds": {
+          "left": 1560,
+          "right": 1896,
+          "top": 1235,
+          "bottom": 1271
+        }
+      },
+      {
+        "type": "text",
+        "text": "Strainer Component",
+        "confidence": 0.9134088957244265,
+        "bounds": {
+          "left": 774,
+          "right": 1022,
+          "top": 1246,
+          "bottom": 1284
+        }
+      },
+      {
+        "type": "text",
+        "text": "products. Till now we have served",
+        "confidence": 0.8010175629894223,
+        "bounds": {
+          "left": 1560,
+          "right": 1933,
+          "top": 1268,
+          "bottom": 1298
+        }
+      },
+      {
+        "type": "text",
+        "text": "User Manual",
+        "confidence": 0.8907422162597344,
+        "bounds": {
+          "left": 775,
+          "right": 929,
+          "top": 1288,
+          "bottom": 1318
+        }
+      },
+      {
+        "type": "text",
+        "text": "over 100 million customers all over",
+        "confidence": 0.6319520417898499,
+        "bounds": {
+          "left": 1561,
+          "right": 1949,
+          "top": 1300,
+          "bottom": 1328
+        }
+      },
+      {
+        "type": "text",
+        "text": "Perfect Package",
+        "confidence": 0.9991947448567078,
+        "bounds": {
+          "left": 774,
+          "right": 973,
+          "top": 1323,
+          "bottom": 1364
+        }
+      },
+      {
+        "type": "text",
+        "text": "the world。",
+        "confidence": 0.7905386957965653,
+        "bounds": {
+          "left": 1559,
+          "right": 1675,
+          "top": 1332,
+          "bottom": 1360
         }
       }
     ],
     "bounds": {
-      "left": 12,
-      "top": 2,
-      "right": 717,
-      "bottom": 520
+      "left": 22,
+      "top": 98,
+      "right": 1966,
+      "bottom": 1472
     },
     "columns": [
       [
         {
-          "text": "60x600",
-          "v_center": 31.0,
-          "left": 55.0,
-          "avg_right": 117.0
+          "text": "Bear Yogurt Maker Share Happiness; health and nutrition With family",
+          "v_center": 253.5,
+          "left": 277.0,
+          "avg_right": 963.0
         },
         {
-          "text": "Sunglasses Deals Up to 50% Off",
-          "v_center": 196.0,
-          "left": 27.0,
-          "avg_right": 141.0
+          "text": "Greek Yogurt Maker Are you keen on simple and convenient life? Here is the best choice foryou。 Committed to fashion, ease of use and full of nutrition, this greek yogurt maker with intelligent heating operation and timing control creates an endless variety of flavors for yogurt lovers. Not only a great source Of protein and calcium, yogurt are also crucial for a healthy digestive systems by health- conscious consumers",
+          "v_center": 867.5,
+          "left": 659.6666666666666,
+          "avg_right": 1345.5
         },
         {
-          "text": "Brano",
-          "v_center": 283.0,
-          "left": 65.0,
-          "avg_right": 99.0
-        },
-        {
-          "text": "Collection of Mens",
-          "v_center": 367.0,
-          "left": 27.0,
-          "avg_right": 143.0
-        },
-        {
-          "text": "Summer Sale Up to",
-          "v_center": 416.0,
-          "left": 25.0,
-          "avg_right": 145.0
+          "text": "Package of Yogurt Maker: Yogurt Maker Machine 1 * 2*1 Quart Glass Jars Strainer Component User Manual Perfect Package",
+          "v_center": 1244.0,
+          "left": 754.8333333333334,
+          "avg_right": 1001.5
         }
       ],
       [
         {
-          "text": "480*120",
-          "v_center": 19.0,
-          "left": 241.0,
-          "avg_right": 311.0
+          "text": "ar",
+          "v_center": 767.0,
+          "left": 1766.0,
+          "avg_right": 1894.0
         },
         {
-          "text": "300x250",
-          "v_center": 169.0,
-          "left": 247.0,
-          "avg_right": 317.0
-        },
-        {
-          "text": "Mens",
-          "v_center": 373.0,
-          "left": 239.0,
-          "avg_right": 271.0
-        },
-        {
-          "text": "728890",
-          "v_center": 429.0,
-          "left": 245.0,
-          "avg_right": 303.0
-        }
-      ],
-      [
-        {
-          "text": "From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
-          "v_center": 88.0,
-          "left": 391.0,
-          "avg_right": 557.0
-        },
-        {
-          "text": "300*250 Text Ad",
-          "v_center": 169.0,
-          "left": 511.0,
-          "avg_right": 641.0
-        },
-        {
-          "text": "Brand Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off",
-          "v_center": 298.0,
-          "left": 485.0,
-          "avg_right": 614.0
-        },
-        {
-          "text": "SHOP NON",
-          "v_center": 372.0,
-          "left": 567.0,
-          "avg_right": 635.0
-        },
-        {
-          "text": "Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer",
-          "v_center": 478.0,
-          "left": 420.0,
-          "avg_right": 717.0
+          "text": "Since 2006, BEAR has been dedicated to innovative home appliances, continually developing new technologies to enhance everyday life. Our smart appliances simplify household chores and daily routines, reducing the burden of tasks and giving people more time to enjoy life. This commitment is evidentin our diverse product lines; featuring multifunctional kitchen appliances and home cleaning products. Till now we have served over 100 million customers all over the world。",
+          "v_center": 1122.0,
+          "left": 1559.8181818181818,
+          "avg_right": 1903.7272727272727
         }
       ]
     ],
     "merged_paragraphs": [
-      "60x600 480*120 From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
-      "300x250 300*250 Text Ad Sunglasses Deals Up to 50% Off Brano Brand Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off Collection of Mens Mens SHOP NON Summer Sale Up to 728890 Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer"
+      "Bear Yogurt Maker Share Happiness; health and nutrition With family",
+      "ar Greek Yogurt Maker Are you keen on simple and convenient life? Here is the best choice foryou。 Committed to fashion, ease of use and full of nutrition, this greek yogurt maker with intelligent heating operation and timing control creates an endless variety of flavors for yogurt lovers. Not only a great source Of protein and calcium, yogurt are also crucial for a healthy digestive systems by health- conscious consumers Since 2006, BEAR has been dedicated to innovative home appliances, continually developing new technologies to enhance everyday life. Our smart appliances simplify household chores and daily routines, reducing the burden of tasks and giving people more time to enjoy life. This commitment is evidentin our diverse product lines; featuring multifunctional kitchen appliances and home cleaning products. Till now we have served over 100 million customers all over the world。 Package of Yogurt Maker: Yogurt Maker Machine 1 * 2*1 Quart Glass Jars Strainer Component User Manual Perfect Package"
     ],
     "region_id": 1
+  },
+  {
+    "elements": [
+      {
+        "type": "image",
+        "bounds": {
+          "left": 692,
+          "top": 1702,
+          "right": 1294,
+          "bottom": 2180
+        },
+        "confidence": 0.19862422259398682
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 1582,
+          "top": 1718,
+          "right": 1855,
+          "bottom": 2079
+        },
+        "confidence": 0.19456536548811224
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 26,
+          "top": 1734,
+          "right": 593,
+          "bottom": 2176
+        },
+        "confidence": 0.18631167719525868
+      },
+      {
+        "type": "text",
+        "text": "ORIC",
+        "confidence": 0.4483380615711212,
+        "bounds": {
+          "left": 770.2562854188427,
+          "right": 860.7437145811573,
+          "top": 1850.6448245698907,
+          "bottom": 1893.3551754301093
+        }
+      },
+      {
+        "type": "text",
+        "text": "Bar Dt",
+        "confidence": 0.9996709524645848,
+        "bounds": {
+          "left": 101.00047242235216,
+          "right": 350.9878331494852,
+          "top": 1969.0280978670799,
+          "bottom": 2140.92703581926
+        }
+      },
+      {
+        "type": "text",
+        "text": "Stainless Steel Inner Pot",
+        "confidence": 0.9108989273099712,
+        "bounds": {
+          "left": 20,
+          "right": 404,
+          "top": 2221,
+          "bottom": 2260
+        }
+      },
+      {
+        "type": "text",
+        "text": "Food-Grade Container",
+        "confidence": 0.9931406824413389,
+        "bounds": {
+          "left": 1359,
+          "right": 1711,
+          "top": 2221,
+          "bottom": 2259
+        }
+      },
+      {
+        "type": "text",
+        "text": "Strainer",
+        "confidence": 0.9994512699585855,
+        "bounds": {
+          "left": 689,
+          "right": 821,
+          "top": 2222,
+          "bottom": 2260
+        }
+      },
+      {
+        "type": "text",
+        "text": "Equal heat transmission make yogurt mellow",
+        "confidence": 0.9204036070907308,
+        "bounds": {
+          "left": 20,
+          "right": 600,
+          "top": 2274,
+          "bottom": 2317
+        }
+      },
+      {
+        "type": "text",
+        "text": "Extractive whey can be drinked directly and",
+        "confidence": 0.6911438785473534,
+        "bounds": {
+          "left": 690,
+          "right": 1249,
+          "top": 2274,
+          "bottom": 2315
+        }
+      },
+      {
+        "type": "text",
+        "text": "Made of high borosilicate glass With vent tid, food-grade safety, BPA free. Easy for cleaning",
+        "confidence": 0.732350311836508,
+        "bounds": {
+          "left": 1357,
+          "right": 1947,
+          "top": 2277,
+          "bottom": 2357
+        }
+      },
+      {
+        "type": "text",
+        "text": "become the mask. More mellow yogurt is",
+        "confidence": 0.5915114320681598,
+        "bounds": {
+          "left": 691,
+          "right": 1221,
+          "top": 2316,
+          "bottom": 2357
+        }
+      },
+      {
+        "type": "text",
+        "text": "and tasty。",
+        "confidence": 0.9267058580232106,
+        "bounds": {
+          "left": 21,
+          "right": 149,
+          "top": 2318,
+          "bottom": 2354
+        }
+      },
+      {
+        "type": "text",
+        "text": "created.",
+        "confidence": 0.6290232172711988,
+        "bounds": {
+          "left": 689,
+          "right": 796,
+          "top": 2356,
+          "bottom": 2393
+        }
+      },
+      {
+        "type": "text",
+        "text": "and storage。",
+        "confidence": 0.7887850703631245,
+        "bounds": {
+          "left": 1359,
+          "right": 1525,
+          "top": 2357,
+          "bottom": 2396
+        }
+      }
+    ],
+    "bounds": {
+      "left": 20,
+      "top": 1702,
+      "right": 1947,
+      "bottom": 2396
+    },
+    "columns": [
+      [
+        {
+          "text": "Bar Dt",
+          "v_center": 2054.97756684317,
+          "left": 101.00047242235216,
+          "avg_right": 350.9878331494852
+        },
+        {
+          "text": "Stainless Steel Inner Pot Equal heat transmission make yogurt mellow and tasty。",
+          "v_center": 2287.5,
+          "left": 20.333333333333332,
+          "avg_right": 384.3333333333333
+        }
+      ],
+      [
+        {
+          "text": "ORIC",
+          "v_center": 1872.0,
+          "left": 770.2562854188427,
+          "avg_right": 860.7437145811573
+        },
+        {
+          "text": "Strainer Extractive whey can be drinked directly and become the mask. More mellow yogurt is created.",
+          "v_center": 2307.5,
+          "left": 689.75,
+          "avg_right": 1021.75
+        }
+      ],
+      [
+        {
+          "text": "Food-Grade Container",
+          "v_center": 2240.0,
+          "left": 1359.0,
+          "avg_right": 1711.0
+        },
+        {
+          "text": "Made of high borosilicate glass With vent tid, food-grade safety, BPA free. Easy for cleaning and storage。",
+          "v_center": 2336.5,
+          "left": 1358.0,
+          "avg_right": 1736.0
+        }
+      ]
+    ],
+    "merged_paragraphs": [
+      "ORIC",
+      "Bar Dt",
+      "Food-Grade Container Stainless Steel Inner Pot Equal heat transmission make yogurt mellow and tasty。 Strainer Extractive whey can be drinked directly and become the mask. More mellow yogurt is created. Made of high borosilicate glass With vent tid, food-grade safety, BPA free. Easy for cleaning and storage。"
+    ],
+    "region_id": 2
+  },
+  {
+    "elements": [
+      {
+        "type": "image",
+        "bounds": {
+          "left": 560,
+          "top": 2501,
+          "right": 926,
+          "bottom": 2884
+        },
+        "confidence": 0.2059437113755879
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 1042,
+          "top": 2504,
+          "right": 1408,
+          "bottom": 2910
+        },
+        "confidence": 0.24220405654739188
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 1545,
+          "top": 2508,
+          "right": 1942,
+          "bottom": 2896
+        },
+        "confidence": 0.38695794892837265
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 132,
+          "top": 2568,
+          "right": 457,
+          "bottom": 2813
+        },
+        "confidence": 0.2070763734556838
+      },
+      {
+        "type": "text",
+        "text": "88",
+        "confidence": 0.8863872402613989,
+        "bounds": {
+          "left": 1224,
+          "right": 1270,
+          "top": 2702,
+          "bottom": 2732
+        }
+      },
+      {
+        "type": "text",
+        "text": "Microcomputer Timer and",
+        "confidence": 0.6840447762070508,
+        "bounds": {
+          "left": 1017,
+          "right": 1426,
+          "top": 2934,
+          "bottom": 2985
+        }
+      },
+      {
+        "type": "text",
+        "text": "Large Capacity",
+        "confidence": 0.991540292226084,
+        "bounds": {
+          "left": 17,
+          "right": 257,
+          "top": 2936,
+          "bottom": 2986
+        }
+      },
+      {
+        "type": "text",
+        "text": "Intelligent Heating Control",
+        "confidence": 0.9845195088235666,
+        "bounds": {
+          "left": 517,
+          "right": 943,
+          "top": 2936,
+          "bottom": 2984
+        }
+      },
+      {
+        "type": "text",
+        "text": "Multi-function",
+        "confidence": 0.9967885425783084,
+        "bounds": {
+          "left": 1519,
+          "right": 1750,
+          "top": 2937,
+          "bottom": 2976
+        }
+      },
+      {
+        "type": "text",
+        "text": "Clear LED Display",
+        "confidence": 0.9097243870102113,
+        "bounds": {
+          "left": 1020,
+          "right": 1298,
+          "top": 2980,
+          "bottom": 3028
+        }
+      },
+      {
+        "type": "text",
+        "text": "Microcomputer system with 304",
+        "confidence": 0.9689511605090809,
+        "bounds": {
+          "left": 523,
+          "right": 877,
+          "top": 2993,
+          "bottom": 3025
+        }
+      },
+      {
+        "type": "text",
+        "text": "Featuring 2 glass jars 1.2 Qt yogurt",
+        "confidence": 0.6616316537458373,
+        "bounds": {
+          "left": 21,
+          "right": 409,
+          "top": 2994,
+          "bottom": 3027
+        }
+      },
+      {
+        "type": "text",
+        "text": "Compare with the most, this yogurt",
+        "confidence": 0.7433152192190507,
+        "bounds": {
+          "left": 1519,
+          "right": 1914,
+          "top": 2994,
+          "bottom": 3026
+        }
+      },
+      {
+        "type": "text",
+        "text": "containers, you can make different",
+        "confidence": 0.6328682471917405,
+        "bounds": {
+          "left": 20,
+          "right": 403,
+          "top": 3025,
+          "bottom": 3057
+        }
+      },
+      {
+        "type": "text",
+        "text": "maker provide more function choices",
+        "confidence": 0.5160130721020306,
+        "bounds": {
+          "left": 1520,
+          "right": 1928,
+          "top": 3025,
+          "bottom": 3055
+        }
+      },
+      {
+        "type": "text",
+        "text": "pot stainless inner can create the",
+        "confidence": 0.9965985931345468,
+        "bounds": {
+          "left": 519,
+          "right": 885,
+          "top": 3026.2751634498613,
+          "bottom": 3055.7248365501387
+        }
+      },
+      {
+        "type": "text",
+        "text": "According to your personal taste; you",
+        "confidence": 0.5241351640476322,
+        "bounds": {
+          "left": 1020,
+          "right": 1430,
+          "top": 3036,
+          "bottom": 3068
+        }
+      },
+      {
+        "type": "text",
+        "text": "flavors of yogurt at a time. A glass",
+        "confidence": 0.6678656505951316,
+        "bounds": {
+          "left": 18,
+          "right": 402,
+          "top": 3055,
+          "bottom": 3092
+        }
+      },
+      {
+        "type": "text",
+        "text": "constant and equal heat transmission",
+        "confidence": 0.7508896907301152,
+        "bounds": {
+          "left": 521,
+          "right": 935,
+          "top": 3057,
+          "bottom": 3087
+        }
+      },
+      {
+        "type": "text",
+        "text": "such as yogurt , greek yogurt; cheese",
+        "confidence": 0.5347707374258474,
+        "bounds": {
+          "left": 1518,
+          "right": 1926,
+          "top": 3057,
+          "bottom": 3089
+        }
+      },
+      {
+        "type": "text",
+        "text": "can choose the time for more precise",
+        "confidence": 0.8254964594177091,
+        "bounds": {
+          "left": 1020,
+          "right": 1428,
+          "top": 3068,
+          "bottom": 3098
+        }
+      },
+      {
+        "type": "text",
+        "text": "maintaining the activation of yogurt。",
+        "confidence": 0.5673903780888033,
+        "bounds": {
+          "left": 519,
+          "right": 928,
+          "top": 3085,
+          "bottom": 3122
+        }
+      },
+      {
+        "type": "text",
+        "text": "container is used for fermentation,",
+        "confidence": 0.6280767747123055,
+        "bounds": {
+          "left": 21,
+          "right": 403,
+          "top": 3088,
+          "bottom": 3119
+        }
+      },
+      {
+        "type": "text",
+        "text": "and fermented wine. With the",
+        "confidence": 0.5103576748831639,
+        "bounds": {
+          "left": 1520,
+          "right": 1852,
+          "top": 3089,
+          "bottom": 3117
+        }
+      },
+      {
+        "type": "text",
+        "text": "temperature control. Yogurt is done",
+        "confidence": 0.7721202132845514,
+        "bounds": {
+          "left": 1020,
+          "right": 1416,
+          "top": 3102,
+          "bottom": 3132
+        }
+      },
+      {
+        "type": "text",
+        "text": "another is used for strainer whichis very",
+        "confidence": 0.663131524365767,
+        "bounds": {
+          "left": 21,
+          "right": 466,
+          "top": 3121,
+          "bottom": 3153
+        }
+      },
+      {
+        "type": "text",
+        "text": "increasing content of protein, home-",
+        "confidence": 0.7245876605618129,
+        "bounds": {
+          "left": 1518,
+          "right": 1924,
+          "top": 3121,
+          "bottom": 3153
+        }
+      },
+      {
+        "type": "text",
+        "text": "Make it more mellow and thick。",
+        "confidence": 0.6616215359382608,
+        "bounds": {
+          "left": 523,
+          "right": 865,
+          "top": 3123,
+          "bottom": 3149
+        }
+      },
+      {
+        "type": "text",
+        "text": "automatically and rang after finished。",
+        "confidence": 0.5576503466035756,
+        "bounds": {
+          "left": 1020,
+          "right": 1434,
+          "top": 3132,
+          "bottom": 3164
+        }
+      },
+      {
+        "type": "text",
+        "text": "made yogurt is more healthier and",
+        "confidence": 0.6609189591360211,
+        "bounds": {
+          "left": 1520,
+          "right": 1902,
+          "top": 3153,
+          "bottom": 3186
+        }
+      },
+      {
+        "type": "text",
+        "text": "convenient。",
+        "confidence": 0.8155566965520396,
+        "bounds": {
+          "left": 21,
+          "right": 151,
+          "top": 3155,
+          "bottom": 3181
+        }
+      },
+      {
+        "type": "text",
+        "text": "nutritious, free from any food additives and preservatives",
+        "confidence": 0.8941316492936601,
+        "bounds": {
+          "left": 1519,
+          "right": 1954,
+          "top": 3185,
+          "bottom": 3249
+        }
+      }
+    ],
+    "bounds": {
+      "left": 17,
+      "top": 2501,
+      "right": 1954,
+      "bottom": 3249
+    },
+    "columns": [
+      [
+        {
+          "text": "Large Capacity Featuring 2 glass jars 1.2 Qt yogurt containers, you can make different flavors of yogurt at a time. A glass container is used for fermentation, another is used for strainer whichis very convenient。",
+          "v_center": 3058.5,
+          "left": 19.857142857142858,
+          "avg_right": 355.85714285714283
+        }
+      ],
+      [
+        {
+          "text": "Intelligent Heating Control Microcomputer system with 304 pot stainless inner can create the constant and equal heat transmission maintaining the activation of yogurt。 Make it more mellow and thick。",
+          "v_center": 3042.5,
+          "left": 520.3333333333334,
+          "avg_right": 905.5
+        }
+      ],
+      [
+        {
+          "text": "88",
+          "v_center": 2717.0,
+          "left": 1224.0,
+          "avg_right": 1270.0
+        },
+        {
+          "text": "Microcomputer Timer and Clear LED Display According to your personal taste; you can choose the time for more precise temperature control. Yogurt is done automatically and rang after finished。",
+          "v_center": 3049.0,
+          "left": 1019.5,
+          "avg_right": 1405.3333333333333
+        }
+      ],
+      [
+        {
+          "text": "Multi-function",
+          "v_center": 2956.5,
+          "left": 1519.0,
+          "avg_right": 1750.0
+        },
+        {
+          "text": "Compare with the most, this yogurt maker provide more function choices such as yogurt , greek yogurt; cheese and fermented wine. With the increasing content of protein, home- made yogurt is more healthier and nutritious, free from any food additives and preservatives",
+          "v_center": 3121.5,
+          "left": 1519.142857142857,
+          "avg_right": 1914.2857142857142
+        }
+      ]
+    ],
+    "merged_paragraphs": [
+      "88",
+      "Multi-function Large Capacity Featuring 2 glass jars 1.2 Qt yogurt containers, you can make different flavors of yogurt at a time. A glass container is used for fermentation, another is used for strainer whichis very convenient。 Intelligent Heating Control Microcomputer system with 304 pot stainless inner can create the constant and equal heat transmission maintaining the activation of yogurt。 Make it more mellow and thick。 Microcomputer Timer and Clear LED Display According to your personal taste; you can choose the time for more precise temperature control. Yogurt is done automatically and rang after finished。 Compare with the most, this yogurt maker provide more function choices such as yogurt , greek yogurt; cheese and fermented wine. With the increasing content of protein, home- made yogurt is more healthier and nutritious, free from any food additives and preservatives"
+    ],
+    "region_id": 3
+  },
+  {
+    "elements": [
+      {
+        "type": "image",
+        "bounds": {
+          "left": 22,
+          "top": 3321,
+          "right": 964,
+          "bottom": 3764
+        },
+        "confidence": 0.23126603185652989
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 1522,
+          "top": 3322,
+          "right": 1964,
+          "bottom": 3764
+        },
+        "confidence": 0.4504020939546852
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 1094,
+          "top": 3344,
+          "right": 1426,
+          "bottom": 3523
+        },
+        "confidence": 0.23908575758575373
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 1025,
+          "top": 3670,
+          "right": 1390,
+          "bottom": 3742
+        },
+        "confidence": 0.19898349137510657
+      },
+      {
+        "type": "text",
+        "text": "Yogurt Fruit Bowl",
+        "confidence": 0.8035794858566537,
+        "bounds": {
+          "left": 18,
+          "right": 301,
+          "top": 3789,
+          "bottom": 3839
+        }
+      },
+      {
+        "type": "text",
+        "text": "Greek Yogurt",
+        "confidence": 0.9694486204124871,
+        "bounds": {
+          "left": 521,
+          "right": 733,
+          "top": 3793,
+          "bottom": 3837
+        }
+      },
+      {
+        "type": "text",
+        "text": "Soft Cheese",
+        "confidence": 0.9857985124537278,
+        "bounds": {
+          "left": 1019,
+          "right": 1211,
+          "top": 3793,
+          "bottom": 3831
+        }
+      },
+      {
+        "type": "text",
+        "text": "Fruit Wine",
+        "confidence": 0.992400461151897,
+        "bounds": {
+          "left": 1519,
+          "right": 1687,
+          "top": 3794,
+          "bottom": 3830
+        }
+      }
+    ],
+    "bounds": {
+      "left": 18,
+      "top": 3321,
+      "right": 1964,
+      "bottom": 3839
+    },
+    "columns": [
+      [
+        {
+          "text": "Yogurt Fruit Bowl",
+          "v_center": 3814.0,
+          "left": 18.0,
+          "avg_right": 301.0
+        }
+      ],
+      [
+        {
+          "text": "Greek Yogurt",
+          "v_center": 3815.0,
+          "left": 521.0,
+          "avg_right": 733.0
+        }
+      ],
+      [
+        {
+          "text": "Soft Cheese",
+          "v_center": 3812.0,
+          "left": 1019.0,
+          "avg_right": 1211.0
+        }
+      ],
+      [
+        {
+          "text": "Fruit Wine",
+          "v_center": 3812.0,
+          "left": 1519.0,
+          "avg_right": 1687.0
+        }
+      ]
+    ],
+    "merged_paragraphs": [
+      "Yogurt Fruit Bowl Greek Yogurt Soft Cheese Fruit Wine"
+    ],
+    "region_id": 4
+  },
+  {
+    "elements": [
+      {
+        "type": "image",
+        "bounds": {
+          "left": 22,
+          "top": 3892,
+          "right": 626,
+          "bottom": 4494
+        },
+        "confidence": 0.3186213454907173
+      },
+      {
+        "type": "text",
+        "text": "Don't hesitatel Just take it home! Warm Tips: Never add water or other liquid into inner pot to avoid machine defective。 2. Don't let food contact inner pot directly。 3. It is normal that there is condensate water in the inner pot when refrigerating; you can use soft cloth to wipe i。 4. Please clean the glass container and yogurt cups thoroughly and rinse them with hot water, wipe everything dry to get better performance everytime before using. 5. When firstly use the glass container Which is contacted with food, it is neccesary to wash it with detergent, and boil it with the boiling water for more than minute to make a sterilization。",
+        "confidence": 0.749900590773295,
+        "bounds": {
+          "left": 700,
+          "right": 1967,
+          "top": 3936,
+          "bottom": 4425
+        }
+      },
+      {
+        "type": "image",
+        "bounds": {
+          "left": 52,
+          "top": 4540,
+          "right": 1964,
+          "bottom": 5684
+        },
+        "confidence": 0.2484211144330707
+      },
+      {
+        "type": "text",
+        "text": "SBTAND FORGET EASYTOUSE",
+        "confidence": 0.9820945608259526,
+        "bounds": {
+          "left": 201,
+          "right": 784,
+          "top": 4655,
+          "bottom": 4806
+        }
+      }
+    ],
+    "bounds": {
+      "left": 22,
+      "top": 3892,
+      "right": 1967,
+      "bottom": 5684
+    },
+    "columns": [
+      [
+        {
+          "text": "Don't hesitatel Just take it home! Warm Tips: Never add water or other liquid into inner pot to avoid machine defective。 2. Don't let food contact inner pot directly。 3. It is normal that there is condensate water in the inner pot when refrigerating; you can use soft cloth to wipe i。 4. Please clean the glass container and yogurt cups thoroughly and rinse them with hot water, wipe everything dry to get better performance everytime before using. 5. When firstly use the glass container Which is contacted with food, it is neccesary to wash it with detergent, and boil it with the boiling water for more than minute to make a sterilization。",
+          "v_center": 4180.5,
+          "left": 700.0,
+          "avg_right": 1967.0
+        },
+        {
+          "text": "SBTAND FORGET EASYTOUSE",
+          "v_center": 4730.5,
+          "left": 201.0,
+          "avg_right": 784.0
+        }
+      ]
+    ],
+    "merged_paragraphs": [
+      "Don't hesitatel Just take it home! Warm Tips: Never add water or other liquid into inner pot to avoid machine defective。 2. Don't let food contact inner pot directly。 3. It is normal that there is condensate water in the inner pot when refrigerating; you can use soft cloth to wipe i。 4. Please clean the glass container and yogurt cups thoroughly and rinse them with hot water, wipe everything dry to get better performance everytime before using. 5. When firstly use the glass container Which is contacted with food, it is neccesary to wash it with detergent, and boil it with the boiling water for more than minute to make a sterilization。",
+      "SBTAND FORGET EASYTOUSE"
+    ],
+    "region_id": 5
+  },
+  {
+    "elements": [
+      {
+        "type": "text",
+        "text": "Recipe Idea: Homemade Sourdough Bread The production is completed in 4 steps and requires several days of preparation time。 tablespoon of buttermilk in a glass container to form a smooth, relatively thin dough. Close the Stage 1: Mix 40 grams of rye flour + 40 mlof water + lid (valve opens) and start the \"2-Cream Cheese\" program. The time is set to 24 hours。 tablespoon of buttermilk to the sourdough and stir until smooth. Then follow the Level 2: Add 10 grams of rye flour + 10 milliliters of water + instructions in step 1 to continue。 Level 3: Add 10 g of rye flour + 10 mlof water and stir until smooth. Then continue as described in step 1 We recommend mixing the dough after 12 hours。 After a total running time of 96 hours (that is, after 4 days), the sourdough is ready. It should smell fruity and sour; and have a foamy, relatively thin consistency。 So, now you have easily made your first sourdough dough in a yogurt maker:",
+        "confidence": 0.9781310419813618,
+        "bounds": {
+          "left": 16,
+          "right": 1940,
+          "top": 5784,
+          "bottom": 6502
+        }
+      }
+    ],
+    "bounds": {
+      "left": 16,
+      "right": 1940,
+      "top": 5784,
+      "bottom": 6502
+    },
+    "columns": [
+      [
+        {
+          "text": "Recipe Idea: Homemade Sourdough Bread The production is completed in 4 steps and requires several days of preparation time。 tablespoon of buttermilk in a glass container to form a smooth, relatively thin dough. Close the Stage 1: Mix 40 grams of rye flour + 40 mlof water + lid (valve opens) and start the \"2-Cream Cheese\" program. The time is set to 24 hours。 tablespoon of buttermilk to the sourdough and stir until smooth. Then follow the Level 2: Add 10 grams of rye flour + 10 milliliters of water + instructions in step 1 to continue。 Level 3: Add 10 g of rye flour + 10 mlof water and stir until smooth. Then continue as described in step 1 We recommend mixing the dough after 12 hours。 After a total running time of 96 hours (that is, after 4 days), the sourdough is ready. It should smell fruity and sour; and have a foamy, relatively thin consistency。 So, now you have easily made your first sourdough dough in a yogurt maker:",
+          "v_center": 6143.0,
+          "left": 16.0,
+          "avg_right": 1940.0
+        }
+      ]
+    ],
+    "merged_paragraphs": [
+      "Recipe Idea: Homemade Sourdough Bread The production is completed in 4 steps and requires several days of preparation time。 tablespoon of buttermilk in a glass container to form a smooth, relatively thin dough. Close the Stage 1: Mix 40 grams of rye flour + 40 mlof water + lid (valve opens) and start the \"2-Cream Cheese\" program. The time is set to 24 hours。 tablespoon of buttermilk to the sourdough and stir until smooth. Then follow the Level 2: Add 10 grams of rye flour + 10 milliliters of water + instructions in step 1 to continue。 Level 3: Add 10 g of rye flour + 10 mlof water and stir until smooth. Then continue as described in step 1 We recommend mixing the dough after 12 hours。 After a total running time of 96 hours (that is, after 4 days), the sourdough is ready. It should smell fruity and sour; and have a foamy, relatively thin consistency。 So, now you have easily made your first sourdough dough in a yogurt maker:"
+    ],
+    "region_id": 6
   }
 ]

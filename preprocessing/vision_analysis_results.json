@@ -1,20 +1,104 @@
 {
-  "total_regions": 1,
+  "total_regions": 6,
   "regions": [
     {
       "region_id": 1,
       "bounds": {
-        "left": 12,
-        "top": 2,
-        "right": 717,
-        "bottom": 520
+        "top": 98,
+        "bottom": 1472,
+        "left": 22,
+        "right": 1966
       },
-      "vision_description": "The image depicts an advertising screen featuring three different formats, each showcasing a man in sunglasses with various design and background settings. The ad includes multiple lines of text, highlighting that it is an advertisement for men's sunglasses and emphasizing deals and discounts.\n\n**Visual Elements:**\n\n*   **Background:** A gray backdrop serves as the foundation of each frame.\n*   **Central Image:** At the center of each advertising platform is a picture of a man sporting different pairs of sunglasses. The first two images demonstrate black-and-white designs with gold frames, while the third image features a more natural-toned, darker design.\n\n**Design and Font:**\n\nThe advertisements are set against neutral gray backgrounds, and the text color changes according to device format (black on the 480x120 format, white or blue on the others), in order to improve readability. These formats demonstrate an effective contrast, with the visual elements matching and complementing each other.\n\n**Content:**\n\nEach advertisement follows a similar structure, consisting of a picture showing sunglasses at the top and an image of a man wearing them below that one. At the base, most platforms have black text, while the 480x120 version features gold text in white backgrounds. The content is presented in concise, bold paragraphs and broken into smaller subcategories to provide clarity.\n\n**Design Choices:**\n\nThe design choices are likely made based on an advertising platform, specifically Google Adwords or Facebook ads that allow advertisers to control the visual layout and the overall theme of their advertisements by using custom sizes for their images, including 300 x 250 (Medium Rectangle), Large Rectangle (336x280), Small Rectangle (180x200), Skyscraper (120x240), Leaderboard (728x90) or Button (20x200). The platform uses a similar style and color scheme across all formats.\n\n**Overall Visual Style:**\n\nThe overall visual style is modern, sophisticated, and clean-cut. It effectively utilizes the different formats to present a unified look that is easily recognizable throughout the various digital devices. By following these design principles, it achieves an excellent aesthetic balance by maintaining consistent design elements without compromising the readability of advertising copy, which allows for clear attention from customers who are using phones or other web-supported devices. The emphasis on consistency across all formats ensures a strong brand presence while communicating its core message in a way that resonates with users regardless of their screen size and resolution settings.\n\n**Conclusion:**\n\nThe layout is well-balanced; the text's proximity to the central images keeps viewers engaged throughout, with bold fonts providing sharp contrast against gray backgrounds. The design allows for legibility whether it is read vertically (mobile phones) or horizontally (computer screens).\n\nGiven its effectiveness in various platforms at promoting a product while engaging readers visually and promoting clear navigation of its content via concise text blocks alongside each image, it is an excellent design concept.",
+      "vision_description": "The advertisement features \"Yogurt Maker\" images in various sections, showcasing it from two different angles: one with a dark base color (black) with an elevated top rim, while the other has a silver tone at its top.\n\nThe lower left photo showcases a yogurt maker alongside some desserts on a countertop. In turn, the upper right image depicts another device sitting on a similar wooden table alongside some fruits and yogurt in glasses placed next to it.\n\nIn addition, there is an explanation section, divided into two sections with \"Greek Yogurt Maker\" as the title at its center. On the left side of this box, the photo of a black bear yogurt maker can be seen to the left again. The right-hand side consists primarily of white space and a large BEAR logo colored in different hues.\n\nThe background within these photos is also an open kitchen area featuring a cooking station with a towel draped over it along with several wooden utensils hanging below, making for a minimalist style overall.",
       "text_content": {
         "columns": [],
         "merged_paragraphs": [
-          "60x600 480*120 From Aviator Shades to Retro sunglasses, Check out oUr new collection Shop ION",
-          "300x250 300*250 Text Ad Sunglasses Deals Up to 50% Off Brano Brand Discoverthe latest collection of Mens Sunglasges. Summer Sale Up to 50% Off Collection of Mens Mens SHOP NON Summer Sale Up to 728890 Discoverthe latest Sunglasses Deals Up to 50% Off sunglasses Summer"
+          "Bear Yogurt Maker Share Happiness; health and nutrition With family",
+          "ar Greek Yogurt Maker Are you keen on simple and convenient life? Here is the best choice foryou。 Committed to fashion, ease of use and full of nutrition, this greek yogurt maker with intelligent heating operation and timing control creates an endless variety of flavors for yogurt lovers. Not only a great source Of protein and calcium, yogurt are also crucial for a healthy digestive systems by health- conscious consumers Since 2006, BEAR has been dedicated to innovative home appliances, continually developing new technologies to enhance everyday life. Our smart appliances simplify household chores and daily routines, reducing the burden of tasks and giving people more time to enjoy life. This commitment is evidentin our diverse product lines; featuring multifunctional kitchen appliances and home cleaning products. Till now we have served over 100 million customers all over the world。 Package of Yogurt Maker: Yogurt Maker Machine 1 * 2*1 Quart Glass Jars Strainer Component User Manual Perfect Package"
+        ]
+      }
+    },
+    {
+      "region_id": 2,
+      "bounds": {
+        "top": 1702,
+        "bottom": 2396,
+        "left": 20,
+        "right": 1947
+      },
+      "vision_description": "The image is a promotional graphic for kitchen products and includes four different sections showing the inner pot with a digital display, yogurt maker, high borosilicate glass container with lid, and a bowl with fruit. \n\nAt the center of each image block is the product. The background images show marble counters in two cases; one white counter on a table and an open shelf above a table. There are also a wooden surface for preparing food, a dark blue wall displaying various fruits behind a countertop, and a light colored table or worktop with a fruit bowl on it.\n\nThe image has a light gray border around all images so they don't run into each other.\n\nAt the center of each graphic is written what each type of kitchen equipment was created for. On the first section: \"Stainless Steel Inner Pot\" - Equipped with digital interface, equal temperature, mellow taste. Below it in smaller letters is its features.  \nSecond block has yogurt maker and below that are some ingredients of a green smoothie.\nThirdly shows what appears to be the highest quality glass container used which is \"Food Grade Container\". There is a description also listed below it along with its specifications at bottom\nFinal image displays fruits on a blue background and contains no other writing or graphic.  \n\nThe graphic uses light gray text in a standard font that contrasts with an all-white section for product names, feature descriptions, instructions, and specs to maximize legibility. The use of white sections ensures a consistent presentation throughout the design despite each block containing different elements. Images of ingredients are also included near some products which adds context and encourages potential customers to consider how these appliances will fit into their own cooking routines as well as showing some examples related items.",
+      "text_content": {
+        "columns": [],
+        "merged_paragraphs": [
+          "ORIC",
+          "Bar Dt",
+          "Food-Grade Container Stainless Steel Inner Pot Equal heat transmission make yogurt mellow and tasty。 Strainer Extractive whey can be drinked directly and become the mask. More mellow yogurt is created. Made of high borosilicate glass With vent tid, food-grade safety, BPA free. Easy for cleaning and storage。"
+        ]
+      }
+    },
+    {
+      "region_id": 3,
+      "bounds": {
+        "top": 2501,
+        "bottom": 3249,
+        "left": 17,
+        "right": 1954
+      },
+      "vision_description": "**Visual Layout and Content Analysis**\n\nThe image presents a prominent product display for an electric yogurt maker, featuring six distinct sections that showcase various aspects of its design and functionality.\n\n**Top Section: Product Display**\n\nA large, centered photo of the yogurt maker dominates the top section. The device boasts a sleek black body with a silver trim, accompanied by a smaller glass jar and a small cup to measure sugar or honey.\n\n**Middle Sections (Left-Right): Visual Elements and Texts**\n\nTo the left, an illustration highlights the significant yogurt yield of 1.2 Qt per batch.\n\nOn the right side, additional photos demonstrate how to add ingredients into the mixing container using the accompanying measuring spoon/jug and a small milk or water jug.\n\n**Bottom Sections: Additional Photos and Headings**\n\nThe next vertical column on the left displays two more photos accompanied by headlines for \"Large Capacity\" and \"Microcomputer Timer\", showcasing the extensive capacity and advanced timing functionality of the yogurt maker.\n\nOn the right side, three circular images are captioned as \"Multi-functional\", providing examples of possible yogurt recipes. These include yogurts with kiwi, blueberries, raisins and strawberries, cottage cheese, and a frozen yogurt mixture using fruit bars or yogurt, fruit, honey, nuts, etc.\n\nThese sections effectively convey essential product features and benefits through visually appealing graphics, ensuring the targeted audience easily understands the product's capabilities before making a purchasing decision.",
+      "text_content": {
+        "columns": [],
+        "merged_paragraphs": [
+          "88",
+          "Multi-function Large Capacity Featuring 2 glass jars 1.2 Qt yogurt containers, you can make different flavors of yogurt at a time. A glass container is used for fermentation, another is used for strainer whichis very convenient。 Intelligent Heating Control Microcomputer system with 304 pot stainless inner can create the constant and equal heat transmission maintaining the activation of yogurt。 Make it more mellow and thick。 Microcomputer Timer and Clear LED Display According to your personal taste; you can choose the time for more precise temperature control. Yogurt is done automatically and rang after finished。 Compare with the most, this yogurt maker provide more function choices such as yogurt , greek yogurt; cheese and fermented wine. With the increasing content of protein, home- made yogurt is more healthier and nutritious, free from any food additives and preservatives"
+        ]
+      }
+    },
+    {
+      "region_id": 4,
+      "bounds": {
+        "top": 3321,
+        "bottom": 3839,
+        "left": 18,
+        "right": 1964
+      },
+      "vision_description": "The image shows a collage of various food items, specifically desserts, with an emphasis on showcasing different types of bowls. Here is the breakdown of each item in the collage, focusing on the **Spatial Arrangement** section:\n1. Yogurt Fruit Bowl: The yogurt bowl features a combination of sweet and sour flavors from the fruit on top such as blueberries or strawberries.\n2. Greek-Style Yogurt: A portion of plain greek-style yogurt in a clear cup is shown alongside the other dessert options. The small plastic container makes it easy to carry along when traveling.\n3. Frozen Yoghurt Popsicle: This frozen yoghurt popsicle showcases how food can be eaten on-the-go as it's not too messy if you're eating outside and want to keep your clothes clean \n4. Healthy Berry Trifle: Lastly, the healthy berry trifle is presented in a large serving bowl, making it visually appealing when displayed at home dinner parties or potluck events",
+      "text_content": {
+        "columns": [],
+        "merged_paragraphs": [
+          "Yogurt Fruit Bowl Greek Yogurt Soft Cheese Fruit Wine"
+        ]
+      }
+    },
+    {
+      "region_id": 5,
+      "bounds": {
+        "top": 3892,
+        "bottom": 5684,
+        "left": 22,
+        "right": 1967
+      },
+      "vision_description": "The image seems to show a promotional photo for slow cooker appliances or similar devices that use glass lids.\n\nIn the top right corner, the text \"Don't hesitate: Just take it home!\" is accompanied by 5 numbered warnings about safe use practices and tips on how to properly clean the slow cooker. \n\nOn the bottom left, there appears to be a white slow-cooker appliance with silver features that shows a lid filled with what appear to be strawberries and cream on top of the visible pot below. There is also another smaller bowl or yogurt cup in front of it and slightly to its right. To both  sides of this are other dishes of similar appearance, as if they're examples of recipes one might make using such a machine.\n\nIn the bottom-right corner stands a blond woman and a young girl with brown hair next to each other, smiling and looking at something together; it is unclear whether on a countertop between them lies another slow cooker or an unrelated product.",
+      "text_content": {
+        "columns": [],
+        "merged_paragraphs": [
+          "Don't hesitatel Just take it home! Warm Tips: Never add water or other liquid into inner pot to avoid machine defective。 2. Don't let food contact inner pot directly。 3. It is normal that there is condensate water in the inner pot when refrigerating; you can use soft cloth to wipe i。 4. Please clean the glass container and yogurt cups thoroughly and rinse them with hot water, wipe everything dry to get better performance everytime before using. 5. When firstly use the glass container Which is contacted with food, it is neccesary to wash it with detergent, and boil it with the boiling water for more than minute to make a sterilization。",
+          "SBTAND FORGET EASYTOUSE"
+        ]
+      }
+    },
+    {
+      "region_id": 6,
+      "bounds": {
+        "top": 5784,
+        "bottom": 6502,
+        "left": 16,
+        "right": 1940
+      },
+      "vision_description": "The image presents an infographic titled \"Recipe Idea: Homemade Sourdough Bread,\" which is a step-by-step guide for preparing homemade sourdough bread that utilizes sourdough culture to leaven bread instead of commercial yeast. The text is laid out in 4 stages, each stage being listed vertically with four steps in the sequence that they need to happen next.\n\nStages 1-2 are described along the left-hand column, followed by Stages 3-4 on the right with a break between those two paragraphs and Stage 5 at the bottom. The image depicts a clean white background, which enhances readability of the text as it presents an easy-to-follow recipe for novice users to start making bread using sourdough culture. \n\nStage 1 comprises the ingredient list on top and a step 1 in the sequence below that lists steps required next.\nStage 2 follows underneath Stage 1 with a step 2 that outlines how water should be added to ingredients.\nStage 3 includes a short paragraph explaining what \"raring\" the culture means, plus two subsequent steps. \nThe last four steps list an interval description of resting the dough in a warm place until it rises again in about 4 hours, followed by kneading once more and leaving the bread dough covered with the top off in the fridge overnight.\nSince this is just a quick overview of preparing homemade sourdough at home, Stage 5 has no specific steps required prior to it. \n\nThe infographic aims to simplify the process without being overwhelming or complicated as if written for a beginner who might not know how to start bread making with sourdough culture.\n\nIn summary, the visual layout presents an essential list of ingredients and processes in stages that are easy to digest to bake homemade sourdough bread at home.",
+      "text_content": {
+        "columns": [],
+        "merged_paragraphs": [
+          "Recipe Idea: Homemade Sourdough Bread The production is completed in 4 steps and requires several days of preparation time。 tablespoon of buttermilk in a glass container to form a smooth, relatively thin dough. Close the Stage 1: Mix 40 grams of rye flour + 40 mlof water + lid (valve opens) and start the \"2-Cream Cheese\" program. The time is set to 24 hours。 tablespoon of buttermilk to the sourdough and stir until smooth. Then follow the Level 2: Add 10 grams of rye flour + 10 milliliters of water + instructions in step 1 to continue。 Level 3: Add 10 g of rye flour + 10 mlof water and stir until smooth. Then continue as described in step 1 We recommend mixing the dough after 12 hours。 After a total running time of 96 hours (that is, after 4 days), the sourdough is ready. It should smell fruity and sour; and have a foamy, relatively thin consistency。 So, now you have easily made your first sourdough dough in a yogurt maker:"
         ]
       }
     }
